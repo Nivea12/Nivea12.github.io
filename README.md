@@ -12,6 +12,9 @@ I have gained both practical and theorical knowldge in network security, IP addr
 
 I am now looking to apply my skills in areas such as cybersecurity, communication infrastructure and network design, and contribute to innovative IT projects.
 
+## Create a CV
+
+
 
 
 
