@@ -23,7 +23,15 @@ FINAL-YEAR ICT STUDENT SPECIALIZING IN COMMUNICATION NETWORKS, SKILLED IN ROUTIN
 **2024-Present** | Diploma in ICT Communiction Networks
 
 ## Technical Skills
-- Network Configurations & simulations  
+- Network Configurations & simulations
+- IP addressing & Subnetting
+- Routing & Switching
+- Java Programming
+- Network Security Fundamentals
+
+## PROJECT
+**2024-Present Portfolio Website**
+Designed and developed a personal website to showcase skills, projects, and contact information.
 
 
 
