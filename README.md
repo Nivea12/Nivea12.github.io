@@ -33,6 +33,16 @@ FINAL-YEAR ICT STUDENT SPECIALIZING IN COMMUNICATION NETWORKS, SKILLED IN ROUTIN
 **2024-Present Portfolio Website**  
 Designed and developed a personal website to showcase skills, projects, and contact information.
 
+**2024-website Development Project**  
+Collaborated with team members to design and build a function website.
+
+**2025-Network Design Project**  
+Designed a wireless network for an office environment including access poin placement aand connectivity planning.  
+## CONTACT
+143 Sir Lowry Street, Woodstock  
+222015349@mycput.ac.za  
+0815441822
+
 
 
 
