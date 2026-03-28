@@ -23,7 +23,8 @@ FINAL-YEAR ICT STUDENT SPECIALIZING IN COMMUNICATION NETWORKS, SKILLED IN ROUTIN
 **2024-Present** | Diploma in ICT Communiction Networks
 
 ## Technical Skills
-**.**
+**.**Network Configurations & simulations
+
 
 
 
