@@ -30,7 +30,7 @@ FINAL-YEAR ICT STUDENT SPECIALIZING IN COMMUNICATION NETWORKS, SKILLED IN ROUTIN
 - Network Security Fundamentals
 
 ## PROJECT
-**2024-Present Portfolio Website**
+**2024-Present Portfolio Website**  
 Designed and developed a personal website to showcase skills, projects, and contact information.
 
 
