@@ -18,6 +18,10 @@ I am now looking to apply my skills in areas such as cybersecurity, communicatio
 ## OBJECTIVE
 FINAL-YEAR ICT STUDENT SPECIALIZING IN COMMUNICATION NETWORKS, SKILLED IN ROUTING, SWITCHING, ODPF, AND CYBERSECURITY FUNDAMENTALS, SEEKING HANDS-ON NETWORK EXPERIENCE.
 
+## EDUCATION
+**2020**| National Senior Certificate| Solomon Mahlangu Freedom School   
+**2024-Present| Diploma in ICT Communiction Networks
+
 
 
 
