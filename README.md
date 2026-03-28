@@ -43,6 +43,9 @@ Designed a wireless network for an office environment including access poin plac
 222015349@mycput.ac.za  
 0815441822
 
+# Mock Interview Video
+
+
 
 
 
