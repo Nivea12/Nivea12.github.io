@@ -44,11 +44,11 @@ Designed a wireless network for an office environment including access poin plac
 0815441822 
 
 ## Reference
-**Name: Rebecca Bure**
+**Name: Rebecca Bure**  
 Company: Cape Peninsula University of Technology 
 Contact: 0825168874  
 Email: burer@cput.ac.za 
-Name: Martin Mandioma 
+**Name: Martin Mandioma**
 Company: Cape peninsula university of Technology 
 Contact: 0796626854 
 Email: mandiomam@cput.ac.za  
