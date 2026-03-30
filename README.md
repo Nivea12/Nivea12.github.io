@@ -45,64 +45,6 @@ Designed a wireless network for an office environment including access poin plac
 
 # Mock Interview Video
 
-# Xiluva Makhuve
-
-## 📍 Contact Information
-- Address: 143 Sir Lowry Street, Woodstock  
-- Email: 222015349@mycput.ac.za  
-- Phone: 081 544 1822  
-
----
-
-## 🎯 Objective
-Final-year ICT student specializing in Communication Networks, skilled in routing, switching, OSPF, and cybersecurity fundamentals. Seeking hands-on networking experience.
-
----
-
-## 🎓 Education
-- **Diploma in ICT: Communication Networks**  
-  Cape Peninsula University of Technology  
-  *2024 – Present*
-
-- **National Senior Certificate**  
-  Solomon Mahlangu Freedom School  
-  *2020*
-
----
-
-## 🛠️ Technical Skills
-- Network Configuration & Simulations  
-- IP Addressing & Subnetting  
-- Routing & Switching  
-- Java Programming  
-- Network Security Fundamentals  
-
----
-
-## 💻 Projects
-
-### Personal Portfolio Website (2024)
-Designed and developed a personal website to showcase skills, projects, and contact information.
-
-### Website Development Project (2024)
-Collaborated with team members to design and build a functional website.
-
-### Network Design Project (2025)
-Designed a wireless network for an office environment, including access point placement and connectivity planning.
-
----
-
-## 📞 References
-
-**Rebecca Bure**  
-Cape Peninsula University of Technology  
-📞 082 516 8874  
-📧 burer@cput.ac.za  
-
-**Martin Mandioma**  
-Cape Peninsula University of Technology  
-📞 079 662 6854  
-📧 mandiomam@cput.ac.za  
 
 
 
