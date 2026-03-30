@@ -6,7 +6,7 @@
 
 ## About Me
 
-I am Xiluva Nivea Makhuvele, a final-year student purisuing a Diploma in Communication Networks at the Cape Peninsula University of Technology. I am interested in  designing, securing, and managing network systems that support modern communication technologies.  
+I am Xiluva Nivea Makhuvele, a final-year student purisuing a Diploma in Communication Networks at the Cape Peninsula University of Technology, with a strong interest in  designing, securing, and managing network systems for modern communication environments.  
 
 I have gained both practical and theorical knowldge in network security, IP addressing, and network configuration, and troubleshooting networks, and I have also worked with tools like Cisco Packet Tracer and platforms like AWS during my studies. I speak English, Xitsonga, Sepedi, and isiZulu and I am comfortable working both in a team and independently.  
 
@@ -51,7 +51,7 @@ Email: burer@cput.ac.za
 Name: Martin Mandioma 
 Company: Cape peninsula university of Technology 
 Contact: 0796626854 
-Email: mandiomam@cput.ac.za
+Email: mandiomam@cput.ac.za  
 
 
 
