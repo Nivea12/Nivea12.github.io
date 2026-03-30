@@ -47,7 +47,8 @@ Designed a wireless network for an office environment including access poin plac
 **Name: Rebecca Bure**  
 Company: Cape Peninsula University of Technology  
 Contact: 0825168874  
-Email: burer@cput.ac.za  
+Email: burer@cput.ac.za 
+
 **Name: Martin Mandioma**  
 Company: Cape peninsula university of Technology   
 Contact: 0796626854   
