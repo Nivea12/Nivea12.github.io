@@ -41,7 +41,17 @@ Designed a wireless network for an office environment including access poin plac
 ## CONTACT
 143 Sir Lowry Street, Woodstock  
 222015349@mycput.ac.za  
-0815441822
+0815441822  
+## Reference
+**Name: Rebecca Bure**
+Company: Cape Peninsula University of Technology 
+Contact: 0825168874  
+Email: burer@cput.ac.za 
+Name: Martin Mandioma 
+Company: Cape peninsula university of Technology 
+Contact: 0796626854 
+Email: mandiomam@cput.ac.za
+
 
 # Mock Interview Video
 
