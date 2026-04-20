@@ -12,7 +12,7 @@ I have gained both practical and theorical knowldge in network security, IP addr
 
 I am now looking to apply my skills in areas such as cybersecurity, communication infrastructure and network design, and contribute to innovative IT projects.
 
-## 1.Create a CV
+## 1. Create a CV
 # XILUVA NIVEA MAKHUVELE
 
 ## OBJECTIVE
@@ -65,7 +65,7 @@ Email: mandiomam@cput.ac.za
 - **A**: I practiced the basic syntax, like headings and formatting, and used it to structure my CV step by step.  
 - **R**: At first it was a bit confusing, but I got used to it. Now I can create and format a CV in markdown and understand how it works.
 
-## 2.Mock Interview Video  
+## 2. Mock Interview Video  
 ## Evidence
 We were required to complete a mock interview video to demonstrate the skills learned in the Interview Skills Module. I recorded a video where I answered questions based on the seven types of interview questions I selected.  
 
@@ -79,7 +79,7 @@ https://1drv.ms/v/c/77095d106cf3e6e7/IQBQ-0WKqZm9Trmk6whpjBUcAbN_m41bEVwKp7iK8CK
 - **A**: I prepared by reviewing common interview question types and practicing the CAR method. I also focused on my tone, confidence, and body language to make sure I presented myself professionally.
 - **R**: I successfully recorded and submitted the mock interview video. It helped me build confidence in answering interview questions and improved my readiness for real job interviews.
 
-## 3.Github Pages
+## 3. Github Pages
 
 ## Evidence
 My CV was created using Markdown and published using GitHub Pages.  
