@@ -87,6 +87,7 @@ My CV was created using Markdown and published using GitHub Pages.
 link:
 https://nivea12.github.io/Nivea12.github.io
 
+
  ## Reflection (STAR)
 - **S**: I was required to publish my work using GitHub Pages for the first time.
 - **T**: The task was to create and deploy a website using GitHub Pages so that my work could be viewed online.
