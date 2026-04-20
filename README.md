@@ -55,6 +55,7 @@ Contact: 0796626854
 Email: mandiomam@cput.ac.za  
 
 ## Evidence
+[View my CV (PDF)](https://github.com/wil-it-2026/cv-submission-Nivea12/blob/main/CV.pdf)
 
 
 
