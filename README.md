@@ -77,12 +77,14 @@ https://1drv.ms/v/c/77095d106cf3e6e7/IQBQ-0WKqZm9Trmk6whpjBUcAbN_m41bEVwKp7iK8CK
 - **A**: I prepared by reviewing common interview question types and practicing the CAR method. I also focused on my tone, confidence, and body language to make sure I presented myself professionally.
 - **R**: I successfully recorded and submitted the mock interview video. It helped me build confidence in answering interview questions and improved my readiness for real job interviews.
 
+## Github Pages
+
 ## Evidence
-My CV was created using Markdown and published using GitHub Pages.
+My CV was created using Markdown and published using GitHub Pages.  
 link:
 https://nivea12.github.io/Nivea12.github.io
 
-## Github Pages Reflection (STAR)
+ Reflection (STAR)
 - **S**: I was required to publish my work using GitHub Pages for the first time.
 - **T**: The task was to create and deploy a website using GitHub Pages so that my work could be viewed online.
 - **A**: I created a GitHub repository, uploaded my files, and enabled GitHub Pages in the settings. I had to learn how to organise my files correctly so the page could display properly.
