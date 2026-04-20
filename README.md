@@ -67,10 +67,10 @@ https://1drv.ms/v/c/77095d106cf3e6e7/IQBQ-0WKqZm9Trmk6whpjBUcAbN_m41bEVwKp7iK8CK
 - **S**: I was required to apply the interview techniques I learned in the Interview Skills Module.
 - **T**: The task was to record a mock interview video showing how I respond to different types of interview questions in a professional way.
 - **A**: I prepared by reviewing common interview question types and practicing the CAR method. I also focused on my tone, confidence, and body language to make sure I presented myself professionally.
-- **R**: I successfully recorded and submitted the mock interview video. It helped me build confidence in answering interview questions and improved my readiness for real job interviews.
+- **R**: I successfully recorded and submitted the mock interview video. It helped me build confidence in answering interview questions and improved my readiness for real job interviews.  
 
 
-## Github pages Reflection (STAR)
+## Github Pages Reflection (STAR)
 - **S**: I was required to publish my work using GitHub Pages for the first time.
 - **T**: The task was to create and deploy a website using GitHub Pages so that my work could be viewed online.
 - **A**: I created a GitHub repository, uploaded my files, and enabled GitHub Pages in the settings. I had to learn how to organise my files correctly so the page could display properly.
