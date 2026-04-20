@@ -70,6 +70,13 @@ https://1drv.ms/v/c/77095d106cf3e6e7/IQBQ-0WKqZm9Trmk6whpjBUcAbN_m41bEVwKp7iK8CK
 - **R**: I successfully recorded and submitted the mock interview video. It helped me build confidence in answering interview questions and improved my readiness for real job interviews.
 
 
+## Github pages Reflection (STAR)
+- **S**: I was required to publish my work using GitHub Pages for the first time.
+- **T**: The task was to create and deploy a website using GitHub Pages so that my work could be viewed online.
+- **A**: I created a GitHub repository, uploaded my files, and enabled GitHub Pages in the settings. I had to learn how to organise my files correctly so the page could display properly.
+- **R**: I successfully published my website using GitHub Pages. This helped me understand how websites are hosted online and improved my confidence in using GitHub.
+
+
 
 
 
