@@ -60,10 +60,14 @@ Email: mandiomam@cput.ac.za
 - **A**: I practiced the basic syntax, like headings and formatting, and used it to structure my CV step by step.  
 - **R**: At first it was a bit confusing, but I got used to it. Now I can create and format a CV in markdown and understand how it works.
 
-## Mock interview video  
+## Mock Interview Video  
 https://1drv.ms/v/c/77095d106cf3e6e7/IQBQ-0WKqZm9Trmk6whpjBUcAbN_m41bEVwKp7iK8CKqxC0?e=z1hCSg
 
 ## Reflection (STAR)
+- **S**: I was required to apply the interview techniques I learned in the Interview Skills Module.
+- **T**: The task was to record a mock interview video showing how I respond to different types of interview questions in a professional way.
+- **A**: I prepared by reviewing common interview question types and practicing the CAR method. I also focused on my tone, confidence, and body language to make sure I presented myself professionally.
+- **R**: I successfully recorded and submitted the mock interview video. It helped me build confidence in answering interview questions and improved my readiness for real job interviews.
 
 
 
