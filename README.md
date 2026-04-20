@@ -63,12 +63,10 @@ Email: mandiomam@cput.ac.za
 ## Mock interview video  
 https://1drv.ms/v/c/77095d106cf3e6e7/IQBQ-0WKqZm9Trmk6whpjBUcAbN_m41bEVwKp7iK8CKqxC0?e=z1hCSg
 
+## Reflection (STAR)
 
 
-<iframe width="560" height="315"
-src="https://www.https://1drv.ms/v/c/77095d106cf3e6e7/IQBQ-0WKqZm9Trmk6whpjBUcAbN_m41bEVwKp7iK8CKqxC0?e=z1hCSg"
-frameborder="0" allowfullscreen>
-</iframe>
+
 
 
 
