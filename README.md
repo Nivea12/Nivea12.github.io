@@ -55,7 +55,20 @@ Contact: 0796626854
 Email: mandiomam@cput.ac.za  
 
 ## REflection (STAR)  
-- **S**:
+- **S**: When I was asked to create my CV using markdown, it was my first time using or coding in markdown.  
+- **T**: I needed to learn how markdown works and use it to create a proper CV.  
+- **A**: I practiced the basic syntax, like headings and formatting, and used it to structure my CV step by step.  
+- **R**: At first it was a bit confusing, but I got used to it. Now I can create and format a CV in markdown and understand how it works.
+
+## Mock interview video  
+https://1drv.ms/v/c/77095d106cf3e6e7/IQBQ-0WKqZm9Trmk6whpjBUcAbN_m41bEVwKp7iK8CKqxC0?e=z1hCSg
+
+
+
+<iframe width="560" height="315"
+src="https://www.https://1drv.ms/v/c/77095d106cf3e6e7/IQBQ-0WKqZm9Trmk6whpjBUcAbN_m41bEVwKp7iK8CKqxC0?e=z1hCSg"
+frameborder="0" allowfullscreen>
+</iframe>
 
 
 
