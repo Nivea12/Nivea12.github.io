@@ -67,7 +67,7 @@ Email: mandiomam@cput.ac.za
 
 ## Mock Interview Video  
 ## Evidence
-We were required to complete a mock interview video to demonstrate the skills learned in the Interview Skills Module. I recorded a video where I answered questions based on the seven types of interview questions I selected.
+We were required to complete a mock interview video to demonstrate the skills learned in the Interview Skills Module. I recorded a video where I answered questions based on the seven types of interview questions I selected.  
 Mock Interview Video  
 https://1drv.ms/v/c/77095d106cf3e6e7/IQBQ-0WKqZm9Trmk6whpjBUcAbN_m41bEVwKp7iK8CKqxC0?e=z1hCSg
 
