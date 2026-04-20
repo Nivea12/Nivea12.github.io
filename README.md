@@ -68,7 +68,9 @@ Email: mandiomam@cput.ac.za
 ## Mock Interview Video  
 ## Evidence
 We were required to complete a mock interview video to demonstrate the skills learned in the Interview Skills Module. I recorded a video where I answered questions based on the seven types of interview questions I selected.  
+
 Mock Interview Video  
+
 https://1drv.ms/v/c/77095d106cf3e6e7/IQBQ-0WKqZm9Trmk6whpjBUcAbN_m41bEVwKp7iK8CKqxC0?e=z1hCSg
 
 ## Reflection (STAR)
@@ -85,7 +87,7 @@ My CV was created using Markdown and published using GitHub Pages.
 link:
 https://nivea12.github.io/Nivea12.github.io
 
- Reflection (STAR)
+ ## Reflection (STAR)
 - **S**: I was required to publish my work using GitHub Pages for the first time.
 - **T**: The task was to create and deploy a website using GitHub Pages so that my work could be viewed online.
 - **A**: I created a GitHub repository, uploaded my files, and enabled GitHub Pages in the settings. I had to learn how to organise my files correctly so the page could display properly.
