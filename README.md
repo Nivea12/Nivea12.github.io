@@ -78,8 +78,9 @@ https://1drv.ms/v/c/77095d106cf3e6e7/IQBQ-0WKqZm9Trmk6whpjBUcAbN_m41bEVwKp7iK8CK
 - **R**: I successfully recorded and submitted the mock interview video. It helped me build confidence in answering interview questions and improved my readiness for real job interviews.
 
 ## Evidence
-I created my CV using Markdown and published it using GitHub Pages. This allowed my CV to be accessed online as a live webpage.
-
+My CV was created using Markdown and published using GitHub Pages.
+link:
+https://nivea12.github.io/Nivea12.github.io
 
 ## Github Pages Reflection (STAR)
 - **S**: I was required to publish my work using GitHub Pages for the first time.
