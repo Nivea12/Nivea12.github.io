@@ -103,8 +103,10 @@ https://nivea12.github.io/Nivea12.github.io
 
   The objective of the SafeStreet Community Security Solutions project was to explore community safety concerns and develop a proposed solution based on the needs of residents. The team conducted community research, gathered feedback, and designed a mobile application prototype for administrators, residents, and security guards.
 
-  **Trello Board:** [SafeStreet Community Security Solution](https://trello.com/b/urZ9fk2y/safestreet-community-security-solution)
-  
+  ### Project Scope
+
+The project focused on understanding community safety concerns and proposing SafeStreet as a possible solution. The team conducted research, gathered information about residents' needs, discussed feedback, and designed a mobile application prototype using Figma. The prototype included interfaces for administrators, residents, and security guards. The project produced a visual prototype to demonstrate the proposed solution; it was not a fully functional application.
+
 
   ### Team members and Responsibilities
   
@@ -125,6 +127,7 @@ https://nivea12.github.io/Nivea12.github.io
 
  We used Trello to organize project tasks, identify responsibilities, and monitor progress. Initially, we were confused about how to use Trello, but with guidance and assistance from our lecturer, we learned how to use it to keep our work organized. Tasks were marked as complete after the team agreed that the work had been completed.
 
+
  ### Project Challenges and Teamwork
 
  One of the main challenges was designing the mobile application prototype. The team addressed this by sharing ideas, discussing the proposed interfaces, and dividing the work where appropriate. Although Zanele Mashifane led the design, everyone contributed ideas to help complete the prototype within the available time.
@@ -133,6 +136,10 @@ https://nivea12.github.io/Nivea12.github.io
 
  My role in the project was writing and documentation. I worked with Zanele Mjayezi to gather information, record project activities, and ensure that the information was accurate and relevant to our objectives.
 One challenge I experienced was determining whether the information we collected was relevant to the project. Sometimes information initially appeared useful, but after examining it more closely, I realized it did not directly address our needs. When I was uncertain, I consulted my teammates for clarification. This experience taught me the importance of evaluating information carefully, communicating with team members, and asking questions rather than making assumptions. It also helped me improve my documentation and critical thinking skills.
+
+**Project Evidence**
+https://trello.com/b/urZ9fk2y/safestreet-community-security-solution
+ https://www.figma.com/make/K8QAp8vivUAlm13n6HBn0z/SafeStreet-Wireframes?t=x9ohSgF8nm7fo3s5-1
 
 ## 2. Agile User Stories and Tasks
 
@@ -183,6 +190,8 @@ One challenge I experienced was determining whether the information we collected
 
 ### Reflection
 Writing these user stories helped me understand how to describe a project from the user's perspective. Breaking each story into smaller tasks also helped us identify the screens and navigation needed for the prototype. The user stories were based on the features our team designed in Figma.
+
+**Evidence:**
 
 ## 3. Product Backlog
 The product backlog contains the main features identified for the SafeStreet Community Security Solutions project. Features were prioritised according to their importance to the proposed solution and the needs identified during community research.
@@ -323,10 +332,6 @@ The team worked on different project activities to develop the SafeStreet concep
 
 ### Sprint 8: Design System and UI Style Guide
 
-### Reflection
-
-The sprint backlog helped me understand how a large project can be divided into smaller tasks and organised into manageable stages. Using Trello helped the team identify responsibilities and monitor progress. I learned that planning and communication are important for keeping the project organised and helping team members work towards the same objectives.
-
 **Objective:** Establish consistent visual design rules for the proposed SafeStreet application.
 
 **Tasks:**
@@ -337,6 +342,12 @@ The sprint backlog helped me understand how a large project can be divided into 
 - Review the style guide against the project presentation branding.
 
 **Status:** Trello checklist marked as complete.  
+
+### Reflection
+
+The sprint backlog helped me understand how a large project can be divided into smaller tasks and organised into manageable stages. Using Trello helped the team identify responsibilities and monitor progress. I learned that planning and communication are important for keeping the project organised and helping team members work towards the same objectives.
+
+https://www.figma.com/make/K8QAp8vivUAlm13n6HBn0z/SafeStreet-Wireframes?t=PGS5oKGckTzPA03Q-1
 
 
 ## 5. Agile Logbook
