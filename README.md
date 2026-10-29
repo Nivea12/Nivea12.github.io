@@ -176,9 +176,9 @@ https://trello.com/b/urZ9fk2y/safestreet-community-security-solution
 - Design a security guard dashboard with a link to view assigned residents.
 - Connect the dashboard screens in the Figma prototype.
 
-**Status:** Included in the Figma prototype.
+ **Status:** Included in the Figma prototype.
 
-## User Story 4: Subscription Options
+ ## User Story 4: Subscription Options
 
 **User Story:**  As a resident or security guard, I want to view subscription options so that I can understand the available subscription plans.
 
@@ -188,10 +188,10 @@ https://trello.com/b/urZ9fk2y/safestreet-community-security-solution
 - Design a subscription page for security guards.
 - Include navigation to the subscription pages in the prototype.
 
-**Status:** Included in the Figma prototype.
+ **Status:** Included in the Figma prototype.
 
 ### Reflection
-Writing these user stories helped me understand how to describe a project from the user's perspective. Breaking each story into smaller tasks also helped us identify the screens and navigation needed for the prototype. The user stories were based on the features our team designed in Figma.
+Writing these user stories helped me understand how to describe a project from the user's perspective. Breaking each story into smaller tasks also helped us identify the screens and navigation needed for the    prototype. The user stories were based on the features our team designed in Figma.
 
 **Evidence:**
 
